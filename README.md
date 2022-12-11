@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-Several sorting algorithms implementations
+Implementation of several sorting algorithms
 
 ## Tools
 
