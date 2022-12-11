@@ -1,4 +1,4 @@
-# Sort Algorithm
+# Sorting Algorithms
 
 Several sort algorithm implementations
 
@@ -10,8 +10,8 @@ Jupyter Notebook
 
 The following sorting algorithms are included：
 
-**Radix-Sort Algorithm**
+**Radix sort**
 
-**Counting-Sort Algorithm**
+**Counting Sort**
 
 Continuously updating
